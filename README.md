@@ -4,6 +4,7 @@
 
 扫描下方二维码即可浏览demo效果  
 ![lottery-draw](http://o8l2fza1x.bkt.clouddn.com/lottery-draw.png)  
+
 水平垂直居中是依靠position+transform来实现的
 ```css
 .box .outer {
